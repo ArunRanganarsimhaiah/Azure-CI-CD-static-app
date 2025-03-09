@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Gen Ai is the new big thing</h1>
+    <h1>Welcome to Gen AI world</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
